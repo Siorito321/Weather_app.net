@@ -1,0 +1,24 @@
+﻿@model List<CityWeather>
+
+@functions {
+    public string ColorPicker(int temp)
+    {
+        return temp < 40 ? "blue" : (temp < 80 ? "green" : "orange");
+    }
+}
+
+
+<div class="main">
+    @{
+        for (int i = 0; i < 3; i++)
+        {
+                <div class="tile @ColorPicker(Model[i].TemperatureFahrenheit)" id="@Model[i].CityUniqueCode">
+                    @*await Html.PartialAsync("_CityWeatherPartial", Model[i])*@
+                @await Component.InvokeAsync("specCityInfo", new
+                {
+                    model_city = Model[i]
+                })
+            </div>
+        }
+    }
+</div>

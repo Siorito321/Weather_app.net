@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\viewcomponents\\speccityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\viewcomponents\\speccityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\views\\shared\\_cityweatherpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\shared\\_cityweatherpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\views\\shared\\components\\speccityinfo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\shared\\components\\speccityinfo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\views\\home\\cityinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\cityinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE0CCA-123D-478B-842B-CBCBBD36D922}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED63147-AC4C-48E3-83B4-2E11A43EACB3}|Services\\Services.csproj|c:\\users\\user\\desktop\\csprojects\\funnyindiandude\\weatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED63147-AC4C-48E3-83B4-2E11A43EACB3}|Services\\Services.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "specCityInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\ViewComponents\\specCityInfo.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\ViewComponents\\specCityInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\ViewComponents\\specCityInfo.cs",
+              "RelativeToolTip": "WeatherApp\\ViewComponents\\specCityInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:09:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_CityWeatherPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Shared\\_CityWeatherPartial.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Shared\\_CityWeatherPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Shared\\_CityWeatherPartial.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Shared\\_CityWeatherPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:08:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Shared\\Components\\specCityInfo\\Default.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Shared\\Components\\specCityInfo\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Shared\\Components\\specCityInfo\\Default.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Shared\\Components\\specCityInfo\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:08:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Home\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:07:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Home\\CityInfo.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\CityInfo.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Views\\Home\\CityInfo.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Home\\CityInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:07:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\WeatherApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:52:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\csprojects\\FunnyIndianDude\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:42:39.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

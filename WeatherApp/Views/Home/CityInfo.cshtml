@@ -1,0 +1,16 @@
+﻿@model CityWeather
+
+<div class="main">
+    @{
+        <div class="tile white center" id="@Model.CityUniqueCode">
+            <div class="first_section_card">
+                <h2>@Model.CityName</h2>
+                <p>@Model.DateAndTime.TimeOfDay.Hours : @Model.DateAndTime.TimeOfDay.Minutes</p>
+                <a href="/">Go back</a>
+            </div>
+            <div class="second_section_card">
+                <h2>@Model.TemperatureFahrenheit °F</h2>
+            </div>
+        </div>
+        }
+</div>

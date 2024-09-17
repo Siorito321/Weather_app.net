@@ -1,0 +1,11 @@
+﻿@using Common.Models
+@model CityWeather
+
+<div class="first_section_card">
+    <h2>@Model.CityName</h2>
+    <p>@Model.DateAndTime.TimeOfDay.Hours : @Model.DateAndTime.TimeOfDay.Minutes</p>
+</div>
+<div class="second_section_card">
+    <h2>@Model.TemperatureFahrenheit °F</h2>
+    <a href="/weather/@Model.CityUniqueCode">Details</a>
+</div>
